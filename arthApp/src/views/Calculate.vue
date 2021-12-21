@@ -31,7 +31,7 @@
     </b-modal>
     <br />
     <div>PUNTUACION: {{ counter }}</div>
-
+    Prueba develop
     <br />
     <router-link to="/">
       <b-button size="lg" pill>Back</b-button>
